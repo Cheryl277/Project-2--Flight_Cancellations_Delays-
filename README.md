@@ -15,7 +15,7 @@ Our project's goal is to clean the massive datas to deliver a direct database on
 https://www.kaggle.com/datasets/usdot/flight-delays?resource=download
 
 ### Tasks:
-Our team initially had difficulties loading the datas to MongoDB, Postgres due the large size of the datas. We found using pandas the easiest way to load/clean our datas. By selecting/erasing the useless datas, we can choose what type of information we want.  We used groupby, to merge the datas together to create the final database.  
+Our team initially had difficulties loading the datas to MongoDB, Postgres due the large size of the datas. We found using pandas the easiest way to load/clean our datas. First, the datas was imported as csv files to be observed. Then, datas were carefully cleaned by moving the unwanted columns in the dataframe. By selecting/erasing the useless datas, we can target what type of information we want.
 
 
 
