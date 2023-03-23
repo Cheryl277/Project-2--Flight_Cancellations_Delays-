@@ -1,5 +1,11 @@
 # Project-2: Flight Cancellations/Delays-
 
+### Questions:
+1. 
+2.
+3.
+
+
 
 ### Project Title: Analysis of Flight Cancellation/Delay of 2015
 
@@ -11,13 +17,17 @@
 ### Project Description/Outline: 
 Our project's goal is to clean the massive datas to deliver a direct database on the delays/cancellation of the flights. We will focus on cleaning the datas, and bringing the datas together to make a clear database. Our objective is to summarize the percentage of delays/cancellation per airport in order to find the most active reason of occurance for cancellation/dalays.
 
-### Datas we used:
+### Datas used:
 https://www.kaggle.com/datasets/usdot/flight-delays?resource=download
 
 ### Cleanup:
-Our team initially had difficulties loading the datas to MongoDB, Postgres due the large size of the datas. We found using pandas the easiest way to load/clean our datas. First, the datas were imported as csv files to be observed. Then, datas were carefully cleaned by moving the unwanted columns in the dataframe. By selecting/erasing the useless datas, we can target the type of information we want. We categorized all flights over 30 minutes late from departuring as a delay. 
+Our team initially had difficulties loading the datas to MongoDB, Postgres due the large size of the datas. We found using pandas the easiest way to load/clean our datas. First, the datas were imported as csv files to be observed. Then, datas were carefully cleaned by moving the unwanted columns in the dataframe. By selecting/erasing the useless datas, we can target the type of information we want. We categorized all flights over 30 minutes late from departuring as a delay.
 
-### Dataframe:
+### Summary:
+In total, we have 2 jupyter notebook. 
+One of the notebook used pandas for cleanup, while the other one uses mongo
+
+
 
 
 
