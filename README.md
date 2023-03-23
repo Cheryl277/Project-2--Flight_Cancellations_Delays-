@@ -26,7 +26,8 @@ Our project's goal is to clean the massive datas to deliver a direct database on
 
 ### Datas used:
 https://www.kaggle.com/datasets/usdot/flight-delays?resource=download
-https://drive.google.com/drive/u/0/folders/1sO-VrUDI7yTd9s5r4WU9LXjrIKL2pfEl (This is cleaned data from the 3 csv file from Kaggle, the data is cleaned, selected, and put together)
+
+https://drive.google.com/drive/u/0/folders/1sO-VrUDI7yTd9s5r4WU9LXjrIKL2pfEl  (This is cleaned data from the 3 csv file from Kaggle, the data is cleaned, selected, and put together)
 
 ### Cleanup:
 Our team initially had difficulties loading the datas to MongoDB, Postgres due the large size of the datas. We found using pandas the easiest way to load/clean our datas. First, the datas were imported as csv files to be observed. Then, datas were carefully cleaned by moving the unwanted columns in the dataframe. By selecting/erasing the useless datas, we can target the type of information we want. We categorized all flights over 30 minutes late from departuring as a delay.
