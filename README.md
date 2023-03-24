@@ -37,7 +37,6 @@ Answers:
 
 1. What are the top 10 cancellations of the airports/airlines?
 ![image](https://user-images.githubusercontent.com/120348065/227395731-84db3950-ae68-4d48-a7e7-c2fc79ef67b4.png)
-![image](https://user-images.githubusercontent.com/120348065/227395805-ed5ed0fa-365f-40d6-ac72-27902f4a749f.png)
 
 
 
