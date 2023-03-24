@@ -17,7 +17,7 @@
 ### Questions:
 By observing the 3 data cleanups; the metrics of cancellation/delays, in order to understand the performance of the airports/airlines, we formulated several questions: 
 1. What are the top 10 airports/airlines with the highest percentage cancellation?
-2. What are the top 10 airport delays?
+2. What are the top 10 airport delays due to security?
 3. What are the worst performing airlines with the most delays?
 4. What are the worst performing states due to weather delays for the airports?
 
@@ -39,8 +39,16 @@ First, the datas were imported as csv files to be observed. Then, datas were car
 1. What are the top 10 airports/airlines with the highest percentage cancellation?
 When we masured cancellations, we were observing the airports/airlines with the highest cancellation percentage. Below are hte top 10 cancelations of the airports/airlines. As you can see, most airports' cancellation is above 7%. While most airlines' cancellation is below 5%, we can interpret that the reason for cancellation is based on the airports instead of the airlines.
 
+
+
 ![image](https://user-images.githubusercontent.com/120348065/227396214-8a7bb4ef-a780-469a-9976-a0bcb6e03a34.png)  ![image](https://user-images.githubusercontent.com/120348065/227396381-c5545165-badd-4cc7-9534-339ed24821e8.png)
 
+What are the top 10 airport delays due to security?
+
+After we measured the delays, we targeted security delays (airline is independent variable that has nothing to do with security of the aiport), and therefore, we measured security delay by airport, below; it is the 10 worst airport delay due to security. The graph shows that most airports have a low percentage 
+
+
+![image](https://user-images.githubusercontent.com/120348065/227397819-954ba479-50c5-4254-8faa-c8e04a5b10ff.png)
 
 
 
