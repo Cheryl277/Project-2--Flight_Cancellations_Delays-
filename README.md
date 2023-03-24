@@ -72,13 +72,4 @@ In order to answer this, we aggregated the weather delays by airports, after get
 
 
 
-1. When we measured cancellations, below are the top 10 cancellations of the airports/airlines (summarized)
-3. After we understand the delays, we measure security delay by airport delays (airline is independent variable that has nothing to do with security of the aiport), and therefore, we measured security delay by airport, below: it is the 10 worst airport delay (supported with top percentage) 
-4. What are the worst performing airlines that has most delays? We aggregated datas by airline delays. 
-7. weather delay, by airports. What are the worst performing airports due to weather delays? In order to answer this, we aggregated the weather delays by airports.
-8. What are the worst performing states due to weather delays for the airports? 
-
-
-
-
 
