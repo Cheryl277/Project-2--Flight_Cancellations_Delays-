@@ -19,7 +19,7 @@ By observing the 3 data cleanups; the metrics of cancellation/delays, in order t
 1. What are the top 10 airports/airlines with the highest percentage cancellation?
 2. What are the top 10 airport delays due to security?
 3. What are the worst performing airlines with the most delays?
-4. What are the worst performing states due to weather delays for the airports?
+4. Which state has the worst weather delays?
 
 
 ### Project Description/Outline: 
@@ -62,12 +62,14 @@ While we were aggregating the datas on airline delays. We found out that spirit 
 
 
 
-### 4. What are the worst performing states due to weather delays for the airports?
+### 4. Which state has the worst weather delays?
 
-
+In order to answer this, we aggregated the weather delays by airports, after getting our results, we look up the percentage of the flights delayed by state. After comparing datas, we found out that the 'percentage of flight delayed state weather' database corresponded with the 'percentage of the delayed flights by weather' database. Showing correlation to our answers. For example, Wilmington Aiport is located in Delaware, Ralph Wien Memorial Airport is located in Arkansas. This finding supports the idea that the weather has a major impact on delays for the airports/flights.
 
 ![image](https://user-images.githubusercontent.com/120348065/227401571-928b8275-ef66-47ee-ae90-eba1f537efc6.png)
 ![image](https://user-images.githubusercontent.com/120348065/227401542-f9b322be-8a05-4f45-bdc2-26501f2ec67e.png)
+
+In convlusion 
 
 
 
