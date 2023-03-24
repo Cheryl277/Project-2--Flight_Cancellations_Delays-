@@ -22,7 +22,7 @@ By observing the 3 data cleanups; the metrics of cancellation/delays, in order t
 
 
 ### Project Description/Outline: 
-Our project's goal is to clean the massive datas to deliver a direct database on the delays/cancellation of the flights. We will focus on cleaning the datas, and bringing the datas together to make a clear database. Our objective is to summarize the percentage of delays/cancellation per airport in order to find the most active reason of occurance for cancellation/dalays.
+Our project's goal is to clean the massive database to deliver a direct database on the delays/cancellation of the flights. We will focus on cleaning the datas, and bringing the datas together to make a clear database. Our objective is to summarize the percentage of delays/cancellation per airport/airlines in order to find the most active reason of occurance for cancellation/dalays.
 
 ### Datas used:
 https://www.kaggle.com/datasets/usdot/flight-delays?resource=download
@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/usdot/flight-delays?resource=download
 https://drive.google.com/drive/u/0/folders/1sO-VrUDI7yTd9s5r4WU9LXjrIKL2pfEl  (This is cleaned data from the 3 csv file from Kaggle, the data is cleaned, selected, and put together)
 
 ### Cleanup:
-Our team initially had difficulties loading the datas to MongoDB, Postgres due the large size of the datas. We found using pandas the easiest way to load/clean our datas. First, the datas were imported as csv files to be observed. Then, datas were carefully cleaned by moving the unwanted columns in the dataframe. By selecting/erasing the useless datas, we can target the type of information we want. We categorized all flights over 30 minutes late from departuring as a delay.
+First, the datas were imported as csv files to be observed. Then, datas were carefully cleaned by deleting the unwanted columns in the database. By selecting/erasing the useless datas, we can target the type of information we want to get our questions answered. We categorized all flights over 30 minutes late from departuring as a delay, and counted all the cancellations of the flights. After selecting the particular datas needed, the cleaned database was made into a new csv file. The cleaned csv was imported as csv file to find our answers.  
 
 
 
