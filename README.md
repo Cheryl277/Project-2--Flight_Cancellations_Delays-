@@ -37,24 +37,32 @@ First, the datas were imported as csv files to be observed. Then, datas were car
 ### Answers:
 
 1. What are the top 10 airports/airlines with the highest percentage cancellation?
+
 When we masured cancellations, we were observing the airports/airlines with the highest cancellation percentage. Below are hte top 10 cancelations of the airports/airlines. As you can see, most airports' cancellation is above 7%. While most airlines' cancellation is below 5%, we can interpret that the reason for cancellation is based on the airports instead of the airlines.
 
 
 
 ![image](https://user-images.githubusercontent.com/120348065/227396214-8a7bb4ef-a780-469a-9976-a0bcb6e03a34.png)  ![image](https://user-images.githubusercontent.com/120348065/227396381-c5545165-badd-4cc7-9534-339ed24821e8.png)
 
-What are the top 10 airport delays due to security?
+2What are the top 10 airport delays due to security?
 
-After we measured the delays, we targeted security delays (airline is independent variable that has nothing to do with security of the aiport), and therefore, we measured security delay by airport, below; it is the 10 worst airport delay due to security. The graph shows that most airports have a low percentage 
+After we measured the delays, we targeted security delays (airline is independent variable that has nothing to do with security of the aiport), and therefore, we measured security delay by airport, below; it is the 10 worst airport delay due to security. The graph shows that most airports have a low percentage of security delays, with the exception of 2 outliers (Adak Airport and Gistavus Airport). 
 
 
 ![image](https://user-images.githubusercontent.com/120348065/227397819-954ba479-50c5-4254-8faa-c8e04a5b10ff.png)
 
 
 
+3. What are the worst performing airlines with the most delays?
+
+While we were aggregating the datas on airline delays. We found out that spirit airlines has the worst airline delays. While Delta Airlines has the least airline delays. This graph also reflect the airlines' liability, and passengers' faith in them. 
+
+
+![image](https://user-images.githubusercontent.com/120348065/227399701-82de90b1-576b-4dca-a0fe-3029b984dc21.png)
 
 
 
+4. What are the worst performing states due to weather delays for the airports?
 
 
 
