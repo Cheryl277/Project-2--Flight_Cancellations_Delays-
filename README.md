@@ -33,6 +33,14 @@ https://drive.google.com/drive/u/0/folders/1sO-VrUDI7yTd9s5r4WU9LXjrIKL2pfEl  (T
 First, the datas were imported as csv files to be observed. Then, datas were carefully cleaned by deleting the unwanted columns in the database. By selecting/erasing the useless datas, we can target the type of information we want to get our questions answered. We categorized all flights over 30 minutes late from departuring as a delay, and counted all the cancellations of the flights. After selecting the particular datas needed, the cleaned database was made into a new csv file. The cleaned csv was imported as csv file to find our answers.  
 
 
+Answers:
+
+1. What are the top 10 cancellations of the airports/airlines?
+![image](https://user-images.githubusercontent.com/120348065/227395731-84db3950-ae68-4d48-a7e7-c2fc79ef67b4.png)
+![image](https://user-images.githubusercontent.com/120348065/227395805-ed5ed0fa-365f-40d6-ac72-27902f4a749f.png)
+
+
+
 
 
 1. When we measured cancellations, below are the top 10 cancellations of the airports/airlines (summarized)
