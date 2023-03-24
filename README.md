@@ -1,4 +1,4 @@
-# Project-2: Flight Cancellations/Delays-
+# Project 2: Flight Cancellations/Delays-
 
 
 ### Project Title: Analysis of Flight Cancellation/Delay of 2015
@@ -10,11 +10,13 @@
 
 
 ### Note:
--  2 notebook used pandas, while the other 1 uses mongo for aggregration 
-- All flight that is 30 mins late, counts as a delay
+-  1 notebook used pandas, while the other 1 uses mongo for aggregration 
+- All flights that are 30 minutes late, counts as a delay
+- A cleaned csv file was used to extract datas
 
 
 ### Questions:
+
 By observing the 3 data cleanups; the metrics of cancellation/delays, in order to understand the performance of the airports/airlines, we formulated several questions: 
 1. What are the top 10 airports/airlines with the highest percentage cancellation?
 2. What are the top 10 airport delays due to security?
@@ -23,7 +25,7 @@ By observing the 3 data cleanups; the metrics of cancellation/delays, in order t
 
 
 ### Project Description/Outline: 
-Our project's goal is to clean the massive database to deliver a direct database on the delays/cancellation of the flights. We will focus on cleaning the datas, and bringing the datas together to make a clear database. Our objective is to summarize the percentage of delays/cancellation per airport/airlines in order to find the most active reason of occurance for cancellation/dalays.
+Our project's goal is to clean the massive database to deliver a direct database on the delays/cancellation of the flights. We will focus on cleaning the datas, and bringing the datas together to make a clear database. Our objective is to summarize the percentage of delays/cancellation per airport/airlines in order to find the most occurance for cancellation/dalays per state.
 
 ### Datas used:
 https://www.kaggle.com/datasets/usdot/flight-delays?resource=download
@@ -64,7 +66,7 @@ While we were aggregating the datas on airline delays. We found out that spirit 
 
 ### 4. Which state has the worst weather delays?
 
-In order to answer this, we aggregated the weather delays by airports, after getting our results, we look up the percentage of the flights delayed by state. After comparing datas, we found out that the 'percentage of flight delayed state weather' database corresponded with the 'percentage of the delayed flights by weather' database. Showing correlation to our answers. For example, Wilmington Aiport is located in Delaware, Ralph Wien Memorial Airport is located in Arkansas. This finding supports the idea that the weather has a major impact on delays for the airports/flights.
+In order to answer this, we aggregated the weather delays by airports, after getting our results, we look up the percentage of the flights delayed by state. After comparing datas, we found out that the 'percentage of flight delayed state weather' database corresponded with the 'percentage of the delayed flights by weather' database. Showing correlation to our answers. For example, Wilmington Aiport is located in Delaware, Ralph Wien Memorial Airport is located in Arkansas. The states that have the most delays are subjected to bad weather. This finding supports the idea that the weather has a major impact on delays for the airports/flights.
 
 ![image](https://user-images.githubusercontent.com/120348065/227401571-928b8275-ef66-47ee-ae90-eba1f537efc6.png)
 ![image](https://user-images.githubusercontent.com/120348065/227401542-f9b322be-8a05-4f45-bdc2-26501f2ec67e.png)
