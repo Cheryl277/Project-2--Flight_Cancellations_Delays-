@@ -68,8 +68,7 @@ In order to answer this, we aggregated the weather delays by airports, after get
 
 ![image](https://user-images.githubusercontent.com/120348065/227401571-928b8275-ef66-47ee-ae90-eba1f537efc6.png)
 ![image](https://user-images.githubusercontent.com/120348065/227401542-f9b322be-8a05-4f45-bdc2-26501f2ec67e.png)
-
-In conclusion,  
+  
 
 
 
