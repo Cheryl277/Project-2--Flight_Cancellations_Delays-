@@ -36,7 +36,8 @@ First, the datas were imported as csv files to be observed. Then, datas were car
 Answers:
 
 1. What are the top 10 cancellations of the airports/airlines?
-![image](https://user-images.githubusercontent.com/120348065/227395731-84db3950-ae68-4d48-a7e7-c2fc79ef67b4.png)
+![image](https://user-images.githubusercontent.com/120348065/227395731-84db3950-ae68-4d48-a7e7-c2fc79ef67b4.png).   ![image](https://user-images.githubusercontent.com/120348065/227396040-249cda34-54a2-4bf8-94b0-782bcd1e9fea.png)
+
 
 
 
