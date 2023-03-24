@@ -6,7 +6,7 @@
 
 ### Team Members of Group 3: Jonathan L, Kevin N, Pratik S, Cheryl Z
 
-![flight-hero](https://user-images.githubusercontent.com/120348065/226772517-a6562c4d-304a-4fdb-88cb-f1040800ca24.jpg) ![image](https://user-images.githubusercontent.com/120348065/227396324-a9273135-dece-4760-9bff-21ae81e69932.png)
+![flight-hero](https://user-images.githubusercontent.com/120348065/226772517-a6562c4d-304a-4fdb-88cb-f1040800ca24.jpg) 
 
 
 ### Note:
@@ -38,7 +38,8 @@ Answers:
 
 1. What are the top 10 cancellations of the airports/airlines?
 
-![image](https://user-images.githubusercontent.com/120348065/227396214-8a7bb4ef-a780-469a-9976-a0bcb6e03a34.png)
+![image](https://user-images.githubusercontent.com/120348065/227396214-8a7bb4ef-a780-469a-9976-a0bcb6e03a34.png)  ![image](https://user-images.githubusercontent.com/120348065/227396381-c5545165-badd-4cc7-9534-339ed24821e8.png)
+
 
 
 
